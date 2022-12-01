@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/css/style.css">
+
+
 @extends('template')
 
 @section('titulo', 'Extrato')
